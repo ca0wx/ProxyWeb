@@ -48,7 +48,7 @@ Sisteminizde **Python 3.8+** yüklü olmalıdır.
 
 ### 2. Depoyu Klonlayın veya İndirin
 ```bash
-git clone https://github.com/kullanici/ProxyWeb.git
+git clone https://github.com/ca0wx/ProxyWeb.git
 cd ProxyWeb
 ```
 
